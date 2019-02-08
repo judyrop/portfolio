@@ -1,0 +1,20 @@
+h1{
+  color:darkblue;
+  font-style: oblique;
+  font-size: 12;
+text-align: center;
+background-color: lightblue;
+}
+h2{
+  font-size: 8;
+  color:brown;
+}
+h3{
+  font-size: 8;
+  color: maroon;
+
+}
+h4{
+  font-size: 8;
+  color: purple;
+}

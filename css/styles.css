@@ -1,0 +1,14 @@
+h1{
+  color:black;
+  text-align:center;
+  background-color: lightblue;
+}
+h2{
+  color:blue;
+  font-style:italic;
+  font-size:14;
+}
+img{
+  width:120px;
+  height:130px;
+}
