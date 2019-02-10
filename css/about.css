@@ -18,17 +18,17 @@ h4{
   font-size: 8;
   color: purple;
 }
-. my background p{
+.My-background p{
   background-color:lightblue;
 }
-. my education p{
-  background-color: lightpurple;
+.My-education p{
+  background-color:purple;
 }
-.my hobbies{
-  background-color: limegreen;
+.My-hobbies{
+  background-color:limegreen;
 }
 .box-model{
-  color: 6px solid brown;
-  padding: 6px;
-  margin: 15px;
+  color:6px solid brown;
+  padding:6px;
+  margin:15px;
 }
