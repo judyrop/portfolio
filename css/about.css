@@ -27,3 +27,8 @@ h4{
 .my hobbies{
   background-color: limegreen;
 }
+.box-model{
+  color: 6px solid brown;
+  padding: 6px;
+  margin: 15px;
+}

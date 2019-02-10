@@ -29,3 +29,8 @@ img {
 .pets{
   color:brown;
 }
+.box-model{
+  border:6px solid brown;
+  padding: 6px;
+  margin: 15px;
+}
