@@ -11,7 +11,7 @@
 * format
 {To access my application i have sent the link of my git hub pages where you can run the app.There is no code that is used or any other.My application will open in browser}
 ## Technologies Used
-{I used HTML and CSS languages which i linked them to git hub pages.here is the link to the git hub pages}
+{I used HTML and CSS languages which I linked them to git hub pages.here is the link to the git hub pages}
 ### License
 *{GPL Judyrop}*
 Copyright (c) {2019} **{Judy Rop}**
