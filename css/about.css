@@ -28,7 +28,7 @@ h4{
   background-color:limegreen;
 }
 .box-model{
-  color:6px solid brown;
-  padding:6px;
-  margin:15px;
+  border:6px solid brown;
+  padding: 6px;
+  margin: 15px;
 }
