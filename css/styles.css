@@ -12,3 +12,11 @@ img{
   width:120px;
   height:130px;
 }
+img {
+  float: left;
+}
+.sidebar{
+  width: 40%;
+  float: right;
+  background-color: limegreen;
+}

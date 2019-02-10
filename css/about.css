@@ -18,3 +18,12 @@ h4{
   font-size: 8;
   color: purple;
 }
+. my background p{
+  background-color:lightblue;
+}
+. my education p{
+  background-color: lightpurple;
+}
+.my hobbies{
+  background-color: limegreen;
+}
