@@ -25,10 +25,10 @@ h4{
   background-color:pink;
 }
 .My-hobbies{
-  background-color:limegreen;
+  background-color:grey;
 }
 .box-model{
-  border:6px solid purple;
+  border:8px solid purple;
   padding: 6px;
   margin: 15px;
 }
